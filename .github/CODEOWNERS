@@ -1,0 +1,11 @@
+# Regra padrão: define um dono para todos os arquivos que não se encaixarem abaixo
+* @lucaslrc01
+
+# Responsável pela documentação
+/docs/  @lucaslrc01
+
+# Responsável pelo código fonte
+/src/   @lucaslrc01
+
+# Regra obrigatória para área sensível (configurações do GitHub)
+/.github/ @lucaslrc01
